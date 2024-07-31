@@ -1,0 +1,91 @@
+name: Bloom
+description: "A new Flutter project."
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  shared_preferences: ^2.0.6
+  provider: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Enable generation of localized Strings from arb files.
+  generate: true
+
+  assets:
+    # Add assets from the images directory to the application.
+    - assets/tutorial1.jpeg
+    - assets/tutorial2.jpeg
+    - assets/tutorial3.jpeg
+    - assets/tutorial4.jpeg
+    - assets/tutorial5.jpeg
+    - assets/tutorial6.png
+    - assets/logov2.png
+    - assets/logo.png
+    - assets/image1.png
+    - assets/image2.png
+    - assets/image3.png
+    - assets/image4.png
+    - assets/image5.png
+    - assets/image6.png
+    - assets/image7.png
+    - assets/image8.png
+    - assets/image9.png
+    - assets/image10.png
+    - assets/image11.png
+    - assets/image12.png
+    - assets/image13.png
+    - assets/image14.png
+    - assets/image15.png
+    - assets/image16.png
+    - assets/image17.png
+    - assets/image18.png
+    - assets/image19.png
+    - assets/image20.png
+    - assets/image21.png
+    - assets/image22.png
+    - assets/image23.png
+    - assets/image24.png
+    - assets/image25.png
+    - assets/image26.png
+    - assets/image27.png
+    - assets/image28.png
+    - assets/image29.png
+    - assets/image30.png
+    - assets/image31.png
+    - assets/image32.png
+    - assets/image33.png
+    - assets/image34.png
+    - assets/image35.png
+    - assets/image36.png
+    - assets/image37.png
+    - assets/image38.png
+    - assets/image39.png
+    - assets/image40.png
+    - assets/image41.png
+    - assets/image42.png
+    - assets/image43.png
+    - assets/image44.png
+    - assets/image45.png
+    - assets/image46.png
+    - assets/image47.png
+    - assets/image48.png
+    - assets/image49.png
+    - assets/image50.png
